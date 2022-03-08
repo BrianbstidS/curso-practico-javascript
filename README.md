@@ -13,5 +13,12 @@
 - Implementar formulas en JavaScript
 - Crear Funciones descuentos 
 - Integrar JavaScript con HTML para interacturar
+
+## Estadistica
+- Definir formulas
+- Implementar formulas en JavaScript
+- Crear Funciones para promedio, moda y  mediana
+- Integrar JavaScript con HTML para interacturar
+
 ## Analisis Salarial
 
